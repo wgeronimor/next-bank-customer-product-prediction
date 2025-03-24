@@ -14,7 +14,6 @@ This project explores a sequential deep learning approach to personalized multi-
 
 This work supports customer journey optimization, cross-selling strategies, and intelligent personalization in digital banking platforms.
 
----
+🔍 [View notebook on nbviewer](https://nbviewer.org/github/wgeronimor/next-bank-customer-product-prediction/blob/main/Time_Aware_Deep_Learning_for_Predicting_the_Next_Product_in_Banking_Customer_Journeys.ipynb)
 
-## 📁 Repository Structure
 
