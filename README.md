@@ -1,4 +1,4 @@
-# Next Bank Customer Product Prediction
+# Time-Aware Deep Learning for Predicting the Next Product in Banking Customer Journeys
 
 This project explores a sequential deep learning approach to personalized multi-product recommendation in the commercial banking domain. The model is designed to predict the next financial product a customer is likely to acquire, based on their historical product sequence, transaction behavior, and demographic profile.
 
